@@ -14,34 +14,34 @@ export default function App() {
 const questions = [
   {
     id: 1,
-    country: "Armenia ",
+    country: "🚩 Armenia ",
     capitalCity: "Yerevan"
 
   },
   {
     id: 2,
-    country: "Spain",
+    country: "🚩 Spain",
     capitalCity: "Madrid"
 
   },
   {
     id: 3,
-    country: "Italy",
+    country: "🚩Italy",
     capitalCity: "Rome"
   },
   {
     id: 4,
-    country: "Japan",
+    country: "🚩Japan",
     capitalCity: "Tokyo"
   },
   {
     id: 5,
-    country: "China",
+    country: "🚩 China",
     capitalCity: "Beijing"
   },
   {
     id: 6,
-    country: "Mexico",
+    country: "🚩 Mexico",
     capitalCity: "Mexico"
   }
 
